@@ -5,3 +5,6 @@ Given a list of filenames, write a script called older.sh that returns the oldes
 
 # Question 2:
 Write a script called funny.sh that prints out the phrase ‘This is funny’ if you include an argument when you invoke the script, i.e., typing ./funny.sh will result in the above phrase being printed out. However, if you invoke the script with no argument, then the script should then return the phrase ‘This is NOT funny’. Include written document about your shell script. Put the code of your shell script on Github so it can be checked.
+
+# Softwares used:
+Shell programming language, Ubuntu, Terminal, Amazon Web Services
